@@ -6,7 +6,7 @@ namespace PartsUnlimited.Models
     public class CartItem : ILineItem
     {
         //my change fourth change
-        //muutos
+        //muutos kdcjash
         [Key]
         public int CartItemId { get; set; }
 
